@@ -26,6 +26,8 @@
 | [wxminijob](https://github.com/gulihua10010/wxminijob) | 微信小程序校内兼职系统 |
 
 ### 公司项目
+| 项目 | 简介 |
+|------|------|
 | [mcp-mianshiya-server](https://github.com/yuyuanweb/mcp-mianshiya-server) | 基于 Spring AI 的面试鸭搜索题目的 MCP Server 服务 |
 | [ai-test](https://github.com/yuyuanweb/ai-test) | AI 大模型评测平台 |
 | [设计模式教程](https://github.com/liyupi/design-pattern-guide) | 2026 保姆级设计模式教程 |
@@ -35,6 +37,7 @@
 
 - 🌐 博客：[jianwoo.cn](https://jianwoo.cn)
 - 📧 1729846470@qq.com
+- 📩 微信：gulihuazoe
 
 ---
 
